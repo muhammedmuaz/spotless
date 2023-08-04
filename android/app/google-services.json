@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377145028352",
+    "project_id": "spotlesstest-ed98d",
+    "storage_bucket": "spotlesstest-ed98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377145028352:android:1cfbb6b0dc8bf70da00de5",
+        "android_client_info": {
+          "package_name": "com.example.spotless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377145028352-4gu4ltnls6jso70272ne4voe5et2fu0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnyPuh2ek6grszhrf81sgAlDNxI7wLF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377145028352-4gu4ltnls6jso70272ne4voe5et2fu0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
